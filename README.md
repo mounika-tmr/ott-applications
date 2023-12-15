@@ -8,7 +8,8 @@ npm install -D typescript
 npm install -D ts-node
 
 npm install -D nodemon : To run the Project , and keep the project run across all changes
-/*Like wise all the npm installations for packages used in this Project*/
+
+/*Like wise Install all the npm installations for packages used in this Project , may be missing to update here like Node-cache .etc.,.*/
 
 npm i express body-parser cookie-parser compression cors
 
