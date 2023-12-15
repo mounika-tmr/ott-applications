@@ -1,14 +1,17 @@
 # Overview
 
 # Step By Step Installations
-npm init -y : 
-creates a Package json
+npm init -y : creates a Package json
+
 npm install -D typescript
+
 npm install -D ts-node
+
 npm install -D nodemon : To run the Project , and keep the project run across all changes
 /*Like wise all the npm installations for packages used in this Project*/
 
 npm i express body-parser cookie-parser compression cors
+
 npm i -D types/body-parser @types/cookie-parser @types/compression @types/cors
 
 # Step By Step Project Structure Setup
