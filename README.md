@@ -1,7 +1,8 @@
 # Overview
 
 # Step By Step Installations
-npm init -y : creates a Package json
+npm init -y : 
+creates a Package json
 npm install -D typescript
 npm install -D ts-node
 npm install -D nodemon : To run the Project , and keep the project run across all changes
